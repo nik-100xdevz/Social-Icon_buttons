@@ -17,8 +17,6 @@ Social-Icon_buttons/
 └── README.md        # Project documentation
 ```
 
-## 🎨 Preview
-![Project Screenshot](assets/preview.png) 
 
 ## 🔧 Setup & Usage
 1. Clone the repository:
